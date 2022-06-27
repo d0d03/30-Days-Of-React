@@ -1,4 +1,5 @@
-export const countries = [
+module.exports = 
+  countries = [
     'Albania',
     'Bolivia',
     'Canada',
@@ -11,4 +12,3 @@ export const countries = [
     'Japan',
     'Kenya',
   ]
-  

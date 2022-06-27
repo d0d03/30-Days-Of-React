@@ -1,4 +1,5 @@
-export const webTechs = [
+module.exports = 
+  web_techs = [
     'HTML',
     'CSS',
     'JavaScript',
@@ -6,4 +7,5 @@ export const webTechs = [
     'Redux',
     'Node',
     'MongoDB',
-  ]
+    'Sass',
+  ] 
